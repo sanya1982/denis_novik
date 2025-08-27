@@ -280,6 +280,7 @@ button:active {
 .contacts__subtitle {
   margin: 60px auto 0 auto;
   width: 200px;
+  color: #828282;
 }
 
 a:active {
