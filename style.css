@@ -111,7 +111,7 @@ p {
   margin: 0;
 }
 
-.firsrscreen__img {
+.firstscreen__img {
   width: 100%;
   margin-top: 50px;
 }
@@ -125,7 +125,7 @@ p {
       }
     }
 
-    .firsrscreen__img {
+    .firstscreen__img {
       animation-name: fadeIn;
       animation-duration: 2s;
       animation-timing-function: ease-in;
